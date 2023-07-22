@@ -344,6 +344,16 @@ body{
 }
 
 
+.skills .content .col-right .bar .django:before{
+  width: 75%;
+  background: #394867;
+}
+
+.skills .content .col-right .bar .sql:before{
+  width: 75%;
+  background: #5F264A;
+}
+
 .skills .content .col-right .bar .bootstrap:before{
   width: 75%;
   background: #98EECC;
