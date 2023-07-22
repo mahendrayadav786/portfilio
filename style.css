@@ -319,10 +319,39 @@ body{
   background: #30dd6d;
 }
 
-.skills .content .col-right .bar .php:before{
+.skills .content .col-right .bar .python:before{
   width: 75%;
-  background: #6d7eb8;
+  background: #CD6688;
 }
+
+.skills .content .col-right .bar .nodejs:before{
+  width: 75%;
+  background: #8C3333;
+}
+
+.skills .content .col-right .bar .mongodb:before{
+  width: 75%;
+  background: #A1CCD1;
+}
+
+.skills .content .col-right .bar .reactjs:before{
+  width: 75%;
+  background: #1D5B79;
+}
+.skills .content .col-right .bar .expressjs:before{
+  width: 75%;
+  background: #FCAEAE;
+}
+
+
+.skills .content .col-right .bar .bootstrap:before{
+  width: 75%;
+  background: #98EECC;
+}
+
+
+
+
 
 .services .content{
   display: flex;
