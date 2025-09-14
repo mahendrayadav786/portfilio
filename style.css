@@ -300,33 +300,33 @@ body{
 }
 
 .skills .content .col-right .bar .html:before{
-  width: 95%;
+  width: 75%;
   background: #e45126;
 }
 
 .skills .content .col-right .bar .Java:before{
-  width: 90%;
+  width: 75%;
   background: #0c73b8;
 }
 
 .skills .content .col-right .bar .Application_Security:before{
-  width: 90%;
+  width: 75%;
   background: #0c73b8;
 }
 
 
 .skills .content .col-right .bar .css:before{
-  width: 90%;
+  width: 75%;
   background: #0c73b8;
 }
 
 .skills .content .col-right .bar .javascript:before{
-  width: 80%;
+  width: 75%;
   background: #e3a324;
 }
 
 .skills .content .col-right .bar .jquery:before{
-  width: 80%;
+  width: 75%;
   background: #30dd6d;
 }
 
@@ -741,5 +741,6 @@ body{
   transform: translateY(0);
   opacity: 1;
 }
+
 
 
