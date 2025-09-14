@@ -514,6 +514,7 @@ body{
 .contact .content .row .card .info span{
   color: #666;
   font-weight: 500;
+  font-size:10.5px;
 }
 
 .contact-form{
@@ -741,6 +742,7 @@ body{
   transform: translateY(0);
   opacity: 1;
 }
+
 
 
 
