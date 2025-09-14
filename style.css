@@ -304,6 +304,17 @@ body{
   background: #e45126;
 }
 
+.skills .content .col-right .bar .Java:before{
+  width: 90%;
+  background: #0c73b8;
+}
+
+.skills .content .col-right .bar .Application Security:before{
+  width: 80%;
+  background: #e3a324;
+}
+
+
 .skills .content .col-right .bar .css:before{
   width: 90%;
   background: #0c73b8;
@@ -319,7 +330,7 @@ body{
   background: #30dd6d;
 }
 
-.skills .content .col-right .bar .python:before{
+.skills .content .col-right .bar .Python:before{
   width: 75%;
   background: #CD6688;
 }
@@ -730,3 +741,4 @@ body{
   transform: translateY(0);
   opacity: 1;
 }
+
