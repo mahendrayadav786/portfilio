@@ -309,9 +309,9 @@ body{
   background: #0c73b8;
 }
 
-.skills .content .col-right .bar .Application Security:before{
-  width: 80%;
-  background: #e3a324;
+.skills .content .col-right .bar .Application_Security:before{
+  width: 90%;
+  background: #0c73b8;
 }
 
 
@@ -741,4 +741,5 @@ body{
   transform: translateY(0);
   opacity: 1;
 }
+
 
